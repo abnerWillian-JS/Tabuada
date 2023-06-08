@@ -1,0 +1,16 @@
+body{
+    background-color: dodgerblue;
+}
+
+h1{
+    text-align: center;
+}
+
+section{
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    background-color: aliceblue;
+    max-width: 500px;
+}
+
